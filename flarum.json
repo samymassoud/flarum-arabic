@@ -1,0 +1,24 @@
+{
+    "name": "arabic",
+    "title": "العربية",
+    "description": "ملفات اللغة العربية بواسطة FlarumArabia.com",
+    "keywords": ["العربية"],
+    "version": "0.1.0",
+    "author": {
+        "name": "Samy Massoud",
+        "email": "samymassoud@gmail.com"
+    },
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.0",
+        "flarum": ">0.1.0"
+    },
+    "support": {
+        "source": "http://www.flarumarabia.com"
+    },
+    "icon": {
+        "name": "globe",
+        "backgroundColor": "#fabdEE",
+        "color": "#ad1519"
+    }
+}

@@ -1,0 +1,10 @@
+mentions:
+  reply_to_post: "رد على #{number}"
+  post_mentioned_notification: "{username} قام بالرد على موضوعك"
+  others: "{count} اخرون"
+  user_mentioned_notification: "{username} قام بذكرك"
+  post_mentioned_by: "{users} قاموا بالرد على هذا"
+  you: أنت
+  reply_link: رد
+  notify_post_mentioned: شخص ما قام بالرد على موضوعى
+  notify_user_mentioned: شخص ما قام بذكرك فى موضوع

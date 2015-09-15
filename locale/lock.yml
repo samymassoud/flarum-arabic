@@ -1,0 +1,8 @@
+lock:
+  discussion_locked_notification: "{username} قام باغلاقه"
+  discussion_locked_post: "{username} قام باغلاق الموضوع"
+  discussion_unlocked_post: "{username} قام بازالة اغلاق الموضوع"
+  notify_discussion_locked: شخص ما قام باغلاق الموضوع الذى قمت بكتابته
+  locked: مغلق
+  lock: غلق
+  unlock: ازالة الاغلاق

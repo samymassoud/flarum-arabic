@@ -1,0 +1,13 @@
+subscriptions:
+  following: متابع
+  ignoring: متجاهل
+  follow: تابع
+  unfollow: الغاء المتابعة
+  ignore: تجاهل
+  notify_new_post: شخص قام بالرد على مواضيع أتابعها
+  new_post_notification: "{username} قام بالرد"
+  not_following: غير متابع
+  not_following_description: يتم تنبيهك عندما يتم @ذكرك.
+  following_description: يتم تنبيهك بكل الردود.
+  ignoring_description: لا يتم تنبيهك ابدا،اخفاء من قائمة المواضيع
+  unignore: ازالة التجاهل

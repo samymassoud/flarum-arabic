@@ -1,0 +1,12 @@
+likes:
+  post_liked_notification: "{username}   معجب بهذا الموضوع"
+  post_likes_modal_title: الأعضاء المعجبين بهذا الموضوع
+  post_liked_by_self: "{users} معجب بهذا "
+  post_liked_by:
+    one: "{users} معجب بهذا"
+    other: "{users} أعجبوا بهذا"
+  unlike_action: ازالة الاعجاب
+  like_action: اعجاب
+  notify_post_liked: شخص ما معجب بهذا
+  others: "{count} اخرون"
+  you: انت

@@ -1,0 +1,112 @@
+core:
+  account: الحساب
+  activity: النشاط
+  administration: الإدارة
+  alert: تحذير
+  all_discussions: كل المواضيع
+  before_log_in_link: هل لديك حساب؟
+  before_sign_up_link: لا يوجد لديك حساب ؟
+  bio_placeholder: اكتب شيئا عن نفسك
+  cannot_reply: لا يمكنك الرد
+  cannot_reply_help: لا يوجد لديك صلاحيات للرد على هذا الموضوع
+  change_email: تغيير البريد الالكترونى
+  change_password: تغيير كلمة السر
+  change_password_help: اضغط الزر بالاسفل ثم تفقد بريدك الالكترونى للحصول على رابط تغيير كلمة السر
+  close: اغلاق
+  confirm_delete_discussion: هل أنت متأكد من أنك تريد حذف هذا الموضوع ؟
+  confirm_discard_discussion: انت لم تقم بنشر موضوعك هل تريد الغاؤه؟
+  confirm_discard_edit: لم تقم بحفظ التغييرات هل تريد تجاهلها؟
+  confirm_discard_reply: لم تقم بنشر ردك،هل تريد تجاهله؟
+  confirmation_email_sent: "لقد قمنا بارسال بريد التفعيل الى {email}. اذا لم يصلك قريبا, من فضلك تأكد من وصوله فى السبام"
+  controls: أدوات التحكم
+  delete: حذف
+  delete_forever: حذف للأبد
+  deleted: "[تم الحذف]"
+  disclose_online: السماح للاخرين بمعرفة متى اكون متصلا
+  discussion_renamed_post: "{username} قام بتغيير اسم المستخدم من  {old} الى {new}."
+  discussion_renamed_notification: "{username} قام بتغيير العنوان"
+  discussion_replied: "اخر رد {ago} بواسطة {username}"
+  discussion_started: "بدأ {ago} بواسطة {username}"
+  discussion_title: عنوان الموضوع
+  discussions: النقاشات 
+  dismiss: اخفاء
+  edit: تعديل
+  editing_post: "رد  #{number} فى {discussion}"
+  email: البريد الالكترونى
+  email_confirmation_required: "انت بحاجة الى تفعيل بريدك الالكترونى قبل الدخول،لقد ارسلنا الى {email}.اذا لم يصلك من فضلك تفقد بريد الاسبام"
+  exit_full_screen: الغاء ملء الشاشة
+  forgot_password: نسيت كلمة السر
+  forgot_password_help: ادخل بريدك الالكترونى وسنقوم بارسال رابط اعادة تعيين كلمة المرور اليك
+  forgot_password_link: نسيت كلمة السر؟
+  full_screen: ملء الشاشة
+  go_to: "اذهب الى {location}"
+  group_admin: مدير
+  group_admins: المدراء
+  group_guest: زائر
+  group_guests: الزوار
+  group_member: عضو
+  group_members: الأعضاء
+  group_mod: Mod
+  group_mods: Mods
+  invalid_login: بيانات دخولك غير صحيحة
+  joined: "انضم منذ {ago}"
+  joined_the_forum: انضم للمنتدى 
+  load_more: تحميل المزيد
+  log_in: تسجيل الدخول
+  log_in_to_reply: سجل الدخول لتتمكن من الرد
+  log_out: تسجيل الخروج
+  mark_all_as_read: حدد الكل تم قراءته
+  mark_as_read: تحديد تم قراءته
+  minimize: تصغير
+  no_notifications: لا يوجد تنبيهات
+  notifications: التنبيهات
+  notify_discussion_renamed: شخص ما قام باعادة تسمية موضوع قمت ببدءه
+  now: الان
+  online: متصل
+  original_post: الموضوع الأصلى
+  password: كلمة السر
+  password_reset_email_sent: قمنا بارسال بريد الكترونى اليك يحتوى رابط اعادة تعيين كلمة السر. قم بفحص مجلد الاسبام اذا لم يصلك خلال الدقيقة أو الاثنين التاليين
+  period_later: "{period} مؤخرا"
+  post_discussion: انشر موضوع
+  post_edited: "{username} قام بتعديله {ago}"
+  post_number: "موضوع #{number}"
+  post_reply: نشر رد
+  posted_a_reply: تم نشر رد
+  posts: المواضيع
+  powered_by_flarum: Powered by Flarum
+  privacy: الخصوصية
+  profile: الملف الشخصى
+  prompt_rename_discussion: ادخل عنوان جديد لهذا الموضوع:
+  recover_password: استعادة كلمة السر
+  refresh: اعادة تحميل
+  remove: حذف
+  rename: اعادة تسمية
+  reply: رد
+  reply_posted: تم ارسال ردك.
+  restore: استعادة
+  save_changes: حفظ التغييرات
+  search_all_discussions: 'ابحث فى كل المواضيع عن "{query}"'
+  search_forum: ابحث فى المنتدى
+  send_password_reset_email: ارسل بريد اعادة تعيين كلمة السر
+  settings: الإعدادت
+  sign_up: تسجيل
+  sort_latest: الأخير
+  sort_newest: الأحدث
+  sort_oldest: الأقدم
+  sort_relevance: متعلق
+  sort_top: أعلى
+  start_a_discussion: ابدأ موضوع
+  started_a_discussion: ابدأ موضوع
+  unread_posts: "{count} غير مقروء"
+  upload: تحميل
+  username: اسم المستخدم
+  username_or_email: اسم المستخدم أو البريد الالكترونى
+  users: الأعضاء
+  view: عرض
+  viewing_posts:
+    one: "{index} من {count} موضوع"
+    other: "{index} من {count} موضوع"
+  welcome_user: "مرحبا، {username}!"
+  write_a_post: اكتب موضوع ...
+  write_a_reply: اكتب رد...
+

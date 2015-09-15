@@ -1,0 +1,4 @@
+pusher:
+  show_updated_discussions:
+    one: "عرض  {count} تحديث للموضوع"
+    other: "عرض {count} تحديث للمواضيع"

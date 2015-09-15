@@ -1,0 +1,8 @@
+sticky:
+  discussion_stickied_notification: "{username} قام بتثبيته"
+  discussion_stickied_post: "{username} قام بتثبيت لموضوع"
+  discussion_unstickied_post: "{username} قام بازالة تثبيت الموضوع"
+  notify_discussion_stickied: شخص ما قام بتثبيت الموضوع الذى بدأته
+  stickied: مثبت
+  sticky: مثبت
+  unsticky: غير مثبت

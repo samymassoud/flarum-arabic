@@ -1,0 +1,21 @@
+tags:
+  tags: العلامات
+  discussion_tagged_post:
+    one: "{username} {action} علامة."
+    other: "{username} {action} علامات."
+  added_tags: "أضف {tags}"
+  removed_tags: "ازالة {tags}"
+  tag_new_discussion_title: اختر علامة لموضوعك
+  tag_new_discussion_link: اختر علامة
+  edit_discussion_tags_title: "تعديل العلامات ل {title}"
+  edit_discussion_tags_link: تعديل العلامات
+  choose_primary_tags:
+    one: اختر علامة رئيسية
+    other: "اختر {count} علامات رئيسية"
+  choose_secondary_tags:
+    one: اختر علامة اضافية
+    other: "اختر {count} علامات اضافية"
+  confirm: تأكيد
+  more: المزيد...
+  deleted: حذفت
+  
