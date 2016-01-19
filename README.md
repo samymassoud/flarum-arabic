@@ -1,4 +1,4 @@
-# Arabic Extension for [Flarum] (http://flarum.org/)
+# Arabic Extension for [Flarum](http://flarum.org/)
 
 Extension to localize the Flarum forum software and its official extensions into Arabic.
 This Theme Support RTL via Extra CSS it can be used with any RTL language.
